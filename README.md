@@ -73,14 +73,6 @@ python -m pytest tests/ -v
 
 Los tests usan fixtures ficticios y **mockean** `gemini_client`; no llaman a Gemini con datos reales.
 
-## Seguridad (repo público)
-
-Nunca commitear:
-
-- `data/*.csv` con leads reales
-- `leads_consolidado.csv`
-- `.env`
-- documentación interna con precios
 
 ## Depuración
 
