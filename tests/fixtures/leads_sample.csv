@@ -1,0 +1,6 @@
+nombre,telefono,sitio_web,direccion,rating,reviews,place_id,categoria,distrito,archivo_origen,nombre_normalizado,direccion_incompleta,revisar_manualmente,fase_lead,prioridad_score
+Ferretería Ficticia Demo,+51987654321,,Av. Demo 123,4.5,0,ChIJfake0000000000000000001,ferreteria,Cercado,fixture.csv,ferreteria ficticia demo,False,False,1,1
+Boutique Prueba Beta,987654321,https://facebook.com/boutiquebeta,Av. Beta 456,3.8,15,ChIJfake0000000000000000002,boutique,Yanahuara,fixture.csv,boutique prueba beta,False,False,2,2
+Restaurante Gamma,,,C. Gamma 789,4.0,5,,restaurante,Cayma,fixture.csv,restaurante gamma,False,False,3,3
+Tienda Consolidada Delta,+51911111111,https://mitienda.wixsite.com/delta,Av. Delta 100,4.2,20,ChIJfake0000000000000000004,boutique,Sachaca,fixture.csv,tienda consolidada delta,False,False,4,4
+Ferretería Sin ID,51922222222,,Av. Sin ID 200,3.5,8,,ferreteria,Cerro Colorado,fixture.csv,ferreteria sin id,False,False,1,1

@@ -1,0 +1,6 @@
+fastmcp>=2.12
+google-genai
+pandas
+python-dotenv
+pydantic
+pytest

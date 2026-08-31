@@ -1,0 +1,22 @@
+# Entorno y credenciales
+venv/
+.env
+*.pyc
+__pycache__/
+
+# Datos de clientes — NUNCA subir
+leads_consolidado.csv
+data/leads_arequipa.csv
+data/processed_leads.csv
+data/*.csv
+!tests/fixtures/leads_sample.csv
+
+# Documentación interna con precios / playbook
+ariq-outreach_PRD_TRD.md
+
+# Cursor / IDE
+.cursor/logs/
+.vscode/
+
+# Sistema
+.DS_Store
