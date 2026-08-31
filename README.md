@@ -49,12 +49,6 @@ En Windows, si el intérprete global no tiene las dependencias, usa la ruta del 
 
 `venv/Scripts/python.exe -m mcp_server.server`
 
-Reinicia Cursor tras configurar. Tools disponibles:
-
-- `generar_auditoria_express` — auditoría + mensaje para un lead
-- `crear_enlace_whatsapp` — normaliza teléfono y arma `wa.me`
-- `procesar_lote` — recorre CSV, omite ya procesados, escribe `data/processed_leads.csv`
-
 ## Variación de mensaje vs fase
 
 | Fase pipeline | Variación |
